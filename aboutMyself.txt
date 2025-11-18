@@ -1,0 +1,8 @@
+Title:ms.
+Full Name:chaitanya
+USN:1WT24CS007
+Semester:Third
+Section:A
+Branch:Computer Science Engineering
+Year of Admission:2024
+college Name:GITW
