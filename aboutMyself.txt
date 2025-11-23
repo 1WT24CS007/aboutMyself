@@ -1,16 +1,9 @@
-<<<<<<< HEAD
-Title:ms.
-=======
 Title:Ms.
->>>>>>> feature-branch
-Full Name:chaitanya
+Full Name:Chaitanya
 USN:1WT24CS007
 Semester:Third
 Section:A
-Branch:Computer Science Engineering
+Branch:Mechanical Engineering
 Year of Admission:2024
-<<<<<<< HEAD
-college Name:GITW
-=======
 College Name:GITW
->>>>>>> feature-branch
+
